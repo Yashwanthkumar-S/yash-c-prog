@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+    int a,b,c;
+    a=50525;
+    b=40399;
+    c=a+b;
+    printf("total number of copies are=%d",c);
+}
+***************************************************
+
+output
+
+total number of copies are=90924
+
